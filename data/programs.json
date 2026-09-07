@@ -1,0 +1,10 @@
+{
+ "Soup/Broth":{"pressure":"Low / High","less":"20 min","normal":"30 min","more":"4 h","best":["Sopa sin carne","Sopa con carne","Caldo de huesos / alto contenido graso"],"release":"natural"},
+ "Meat/Stew":{"pressure":"Low / High","less":"20 min","normal":"35 min","more":"45 min","best":["Textura suave","Muy suave","Se desprende del hueso"],"release":"natural"},
+ "Beans/Chili":{"pressure":"Low / High","less":"25 min","normal":"30 min","more":"40 min","best":["Más firme","Suave","Muy suave"],"release":"natural"},
+ "Poultry":{"pressure":"Low / High","less":"5 min","normal":"15 min","more":"30 min","best":["Suave","Muy suave","Se desprende del hueso"],"release":"natural"},
+ "Rice":{"pressure":"Low / High","less":"8 min","normal":"12 min","more":"15 min","best":["Al dente / blanco","Normal / blanco","Más suave / blanco"],"release":"quick-10"},
+ "Multigrain":{"pressure":"Low / High","less":"20 min","normal":"40 min","more":"45 min + 1 h remojo","best":["Al dente / integral","Integral / arroz salvaje","Granos duros o mezcla"],"release":"natural"},
+ "Porridge":{"pressure":"Low / High","less":"5 min","normal":"20 min","more":"30 min","best":["Avena steel-cut/rolled","Pudding/porridge/congee","Mezcla de granos"],"release":"natural"},
+ "Steam":{"pressure":"Low / High","less":"3 min","normal":"10 min","more":"15 min","best":["Vegetales","Pescado/mariscos","Carne"],"release":"quick"}
+}

@@ -1,0 +1,11 @@
+[
+{"q":"La tapa no cierra","a":"Recoloca el aro de sellado y verifica que quede ajustado detrás del soporte. Si el contenido está caliente, mueve Steam Release a Vent y baja suavemente la tapa."},
+{"q":"La tapa está trabada después de cocinar","a":"Puede quedar presión. Deja enfriar o libera presión según corresponda. No fuerces la tapa."},
+{"q":"Sale vapor por el lado de la tapa","a":"Revisa que el aro esté instalado, limpio y sin daño; retira residuos del borde; verifica que la tapa esté cerrada y el aro centrado."},
+{"q":"No alcanza presión / fuga de vapor","a":"Revisa aro de sellado, tapa, válvula flotante y posición de Steam Release. El manual indica que pequeñas fugas iniciales pueden ser normales."},
+{"q":"Food burn","a":"Apaga la olla. Libera presión según la receta, inspecciona el fondo y elimina depósitos de almidón. Asegura suficiente líquido acuoso antes de reiniciar."},
+{"q":"PrSE","a":"Se acumuló presión durante un programa sin presión. Coloca Steam Release en Vent."},
+{"q":"C1 / C2 / C6","a":"El manual identifica fallo de sensor o elemento calefactor. Contacta Consumer Care; no continúes usándola."},
+{"q":"C7 / NoPr","a":"No hay suficiente líquido. Agrega líquido acuoso: 3 qt = 1 taza; 6 qt = 1½ tazas; 8 qt = 2 tazas."},
+{"q":"Pantalla apagada","a":"Comprueba conexión y cable. Si hay daño, contacta Consumer Care. Prueba también otro tomacorriente con alimentación."}
+]
